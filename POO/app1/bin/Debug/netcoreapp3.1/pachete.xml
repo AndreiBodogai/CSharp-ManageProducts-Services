@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Pachet">
+    <Id>0</Id>
+    <Nume>Pachet1</Nume>
+    <CodIntern>123543</CodIntern>
+    <Pret>5500</Pret>
+    <Categorie>Categorie1</Categorie>
+    <Elem_pachet>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>1</Id>
+        <Nume>Calculator</Nume>
+        <CodIntern>32432</CodIntern>
+        <Pret>1500</Pret>
+        <Categorie>Tehnologia Informatiei</Categorie>
+        <Producator>USA</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>2</Id>
+        <Nume>Laptop</Nume>
+        <CodIntern>12132</CodIntern>
+        <Pret>2000</Pret>
+        <Categorie>Calculatoare</Categorie>
+        <Producator>Romania</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>3</Id>
+        <Nume>Reparare</Nume>
+        <CodIntern>32434</CodIntern>
+        <Pret>2000</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </ProdusAbstract>
+    </Elem_pachet>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Pachet">
+    <Id>4</Id>
+    <Nume>Pachet2</Nume>
+    <CodIntern>43263</CodIntern>
+    <Pret>2650</Pret>
+    <Categorie>Categorie2</Categorie>
+    <Elem_pachet>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>5</Id>
+        <Nume>Tastatura</Nume>
+        <CodIntern>321</CodIntern>
+        <Pret>150</Pret>
+        <Categorie>Calculatoare</Categorie>
+        <Producator>China</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>6</Id>
+        <Nume>Monitor</Nume>
+        <CodIntern>87422</CodIntern>
+        <Pret>500</Pret>
+        <Categorie>Calculatoare</Categorie>
+        <Producator>Germania</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>7</Id>
+        <Nume>Curatare</Nume>
+        <CodIntern>123153</CodIntern>
+        <Pret>2000</Pret>
+        <Categorie>Tehnologia informatiei</Categorie>
+      </ProdusAbstract>
+    </Elem_pachet>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Produs">
+    <Id>0</Id>
+    <Nume>asdf</Nume>
+    <CodIntern>2fdfsg</CodIntern>
+    <Pret>243645</Pret>
+    <Categorie>gfng</Categorie>
+    <Producator>da</Producator>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract>

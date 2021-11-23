@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<elemente>
+	<Pachet>
+		<Nume>Pachet1</Nume>
+		<CodIntern>123543</CodIntern>
+		<Pret>3500</Pret>
+		<Categorie>Categorie1</Categorie>
+		<Produs>
+			<Nume>Calculator</Nume>
+			<CodIntern>32432</CodIntern>
+			<Producator>USA</Producator>
+			<Pret>1500</Pret>
+			<Categorie>Tehnologia Informatiei</Categorie>
+		</Produs>
+		<Produs>
+			<Nume>Laptop</Nume>
+			<CodIntern>12132</CodIntern>
+			<Producator>Romania</Producator>
+			<Pret>2000</Pret>
+			<Categorie>Calculatoare</Categorie>
+		</Produs>
+		<Serviciu>
+			<Nume>Reparare</Nume>
+			<CodIntern>32434</CodIntern>
+			<Pret>2000</Pret>
+			<Categorie>Calculatoare</Categorie>
+		</Serviciu>
+	</Pachet>
+	<Pachet>
+		<Nume>Pachet2</Nume>
+		<CodIntern>43263</CodIntern>
+		<Pret>2500</Pret>
+		<Categorie>Categorie2</Categorie>
+		<Produs>
+			<Nume>Tastatura</Nume>
+			<CodIntern>321</CodIntern>
+			<Producator>China</Producator>
+			<Pret>150</Pret>
+			<Categorie>Calculatoare</Categorie>
+		</Produs>
+		<Produs>
+			<Nume>Monitor</Nume>
+			<CodIntern>87422</CodIntern>
+			<Producator>Germania</Producator>
+			<Pret>500</Pret>
+			<Categorie>Calculatoare</Categorie>
+		</Produs>
+		<Serviciu>
+			<Nume>Curatare</Nume>
+			<CodIntern>123153</CodIntern>
+			<Pret>2000</Pret>
+			<Categorie>Tehnologia informatiei</Categorie>
+		</Serviciu>
+	</Pachet>
+</elemente>

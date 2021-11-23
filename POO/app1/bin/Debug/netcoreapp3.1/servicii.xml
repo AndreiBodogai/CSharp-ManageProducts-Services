@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Serviciu">
+    <Id>0</Id>
+    <Nume>dsbf</Nume>
+    <CodIntern>fdsd</CodIntern>
+    <Pret>32</Pret>
+    <Categorie>bfg</Categorie>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Serviciu">
+    <Id>1</Id>
+    <Nume>fdbhfg</Nume>
+    <CodIntern>3gfd</CodIntern>
+    <Pret>2112</Pret>
+    <Categorie>fdg</Categorie>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract>
